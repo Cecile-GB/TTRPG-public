@@ -7,7 +7,7 @@ tags:
 aliases: 
 ---
 # [[Sauriv]]
-TLDR:: Lizardfolk to hire looking for a hunt
+TLDR:: Lizardfolk for hire looking for a hunt
 ## General information
 ActualPlayer:: Cecile_GB
 Race:: Lizardfolk
