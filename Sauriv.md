@@ -38,6 +38,8 @@ Weight:: 210 lbs / 95 kg
 **Flaws**:: I enjoy eating my food while it's still wriggling. Dead meat is boring.
 #### Appearance
 ![[sauriv.png]]
+### Backstory
+
 ## Ability scores
 | Ability      | Score | Mod | Saving Throw |
 | ------------ | ----- | --- | ------------ |
